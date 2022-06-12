@@ -1,1 +1,0 @@
-# Projeto Algebra Linear Computacional
